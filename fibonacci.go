@@ -24,4 +24,7 @@ func main() {
     n := 10 // Example: Get the first 10 Fibonacci numbers
     fibSeq := Fibonacci(n)
     fmt.Println(fibSeq)
-}
+
+
+
+asdasdasd {} {P{ }P{}
